@@ -4,7 +4,10 @@
 </p>
 
 <center>
-  <img width="44%" height="300px" align="left" src="https://github-readme-stats.vercel.app/api?username=VycktorStark&show_icons=true&hide_border=false" /> 
-  <img width="47%" height="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VycktorStark&hide=html,css&layout=compact" />
+  <a href="https://github.com/VycktorStark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VycktorStark&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VycktorStark&layout=compact&langs_count=16&theme=dracula"/>
+
 </center>
+ 
 
